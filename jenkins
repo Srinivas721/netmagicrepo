@@ -1,0 +1,4 @@
+date
+uname -n
+uptime 
+df -h
