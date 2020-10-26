@@ -1,4 +1,1 @@
-date
-uname -n
-uptime 
-df -h
+date; uname -n
